@@ -1,4 +1,6 @@
 .sconsign.dblite
 *.o
 *.a
-log_test
+logging.txt
+logPlainTest
+logConfigTest
